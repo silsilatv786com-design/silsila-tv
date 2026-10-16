@@ -1,10 +1,11 @@
 {
   "name": "SILSILA TV",
   "short_name": "SILSILA TV",
-  "start_url": "/silsila-tv/",
+  "description": "SILSILA TV Official Website - Islamic Stories, Bayans and Naats",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0A1931",
-  "theme_color": "#0A1931",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
   "icons": [
     {
       "src": "icon-192.png",
